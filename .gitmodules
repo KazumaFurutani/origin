@@ -1,0 +1,4 @@
+[submodule "origin"]
+	path = origin
+	url = https://furutani@bitbucket.org/origin_sdk/sdk.git
+	branch = develop
